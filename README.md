@@ -1,2 +1,2 @@
 # id2116_Morning-Business
-YUTA'S CLASS
+This is not a toilet

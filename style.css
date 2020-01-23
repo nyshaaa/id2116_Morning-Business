@@ -1,0 +1,15 @@
+
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: blue;
+    text-align: center;
+    <link rel="stylesheet" type="text/css" href="style.css">
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }

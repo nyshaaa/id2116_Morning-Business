@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(247, 248, 245);
+  }
+  
+  h1 {
+    color: green;
+    text-align: center;
+    font-family: Helvetica;
+  }
+  
+  p {
+    font-family: Arial;
+    font-size: 20px;
+  }

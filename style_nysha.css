@@ -13,8 +13,9 @@ body {
     margin: 0 20 px;
     color: #09143c;
     cursor: pointer;
+}
 
-.logo img {
+.logo img{
     width: 100px;
     margin-top: -100 px;
     margin-right: 80px;

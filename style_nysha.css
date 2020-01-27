@@ -2,16 +2,6 @@ body {
     background-color: rgb(247, 248, 245);
   }
   
-  h1 {
-    color: green;
-    text-align: center;
-    font-family: Helvetica;
-  }
-  
-  p {
-    font-family: Arial;
-    font-size: 20px;
-  }
 .menu ul{
     display: inline-block
     margin: 50px;
@@ -23,7 +13,7 @@ body {
     margin: 0 20 px;
     colour: #09143c;
     cursor: pointer;
-    
+
 
 
 }

@@ -7,7 +7,7 @@ body {
   }
   
 .menu ul{
-    display: inline-block;
+    display: inline;
     margin: 50px;
 
 }

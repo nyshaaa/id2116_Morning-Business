@@ -29,7 +29,7 @@ body {
 .banner{
     width: 80%;
     height: 70%;
-    top: 30%;
+    top: 27%;
     margin-left: 400px;
     position: absolute;
     color: #09143c;
@@ -48,6 +48,7 @@ body {
 }
 
 .app text p{
+    text-align: justify;
     width:650px;
     font-size: 15px;
     margin: 30 px 0 30px 40px;

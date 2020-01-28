@@ -26,4 +26,11 @@ body {
         height: auto;
       }
 
+.banner{
+    width: 80%;
+    height: 70%;
+    top:130px;
+    position: absolute;
+    color: #09143c;
 
+}

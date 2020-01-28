@@ -14,9 +14,7 @@ body {
 
 .menu ul li{
     list-style: none;
-    margin: 0;
-    padding: 0;
-    position: relative;
+    margin: 0px  20px;
     color: #09143c;
     cursor: pointer;
 }

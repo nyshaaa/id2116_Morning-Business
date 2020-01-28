@@ -29,8 +29,29 @@ body {
 .banner{
     width: 80%;
     height: 70%;
-    top:130px;
+    top:25%;
+    left:130px;
     position: absolute;
     color: #09143c;
+}
+.app-text{
+    width: 50%;
+    float: left;
 
 }
+
+.app text h1{
+    font-size: 43px;
+    width: 640px;
+    position: relative;
+    margin-left:40px;
+}
+
+.app text p{
+    width:650px;
+    font-size: 15px;
+    margin: 30 px 0 30px 40px;
+    line-height: 25px;
+    color: #09143c;
+
+

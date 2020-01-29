@@ -13,11 +13,11 @@ body {
     font-size: 20px;
   }
 
-  .HOME ul{
+  .menu ul{
     display: inline-flex;
     margin: 50px;
   }
-  .HOME ul{
+  .menu ul{
     list-style: none;
     margin: 0 20px;
     color: cornflowerblue;

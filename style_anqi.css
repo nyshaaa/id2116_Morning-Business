@@ -1,16 +1,16 @@
 body {
-    background-color: lightyellow;
+    background-color: black;
   }
   
   h1 {
-    color: ;
+    color: aliceblue;
     text-align: center;
     font-family: Helvetica;
   }
   
   p {
-    font-family: Arial;
-    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
   }
 
   .menu ul{

@@ -7,7 +7,7 @@ body {
   }
   
 .menu ul{
-    display: inline-block;
+    display: inline-flex;
     margin: 50px;
 
 }
@@ -22,7 +22,7 @@ body {
 .logo img{
     border-radius: 8px;
     margin-top: 150px;
-        max-width: 10%;
+        max-width: 15%;
         height: auto;
       }
 

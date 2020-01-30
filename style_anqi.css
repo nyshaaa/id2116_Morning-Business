@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: aliceblue;
+    text-align: center;
+    font-family: Helvetica;
+  }
+  
+  p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+  }
+
+  .menu ul{
+    display: inline-flex;
+    margin: 50px;
+  }
+  .menu ul li{
+    list-style: none;
+    margin: 0 20px;
+    color: rgb(170, 15, 15);
+    cursor: pointer;
+  }
+ 
+  .logo img{
+    border-radius: 8px;
+    margin-top: 150px;
+        max-width: 40%;
+        height: auto;
+      }

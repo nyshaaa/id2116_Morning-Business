@@ -1,9 +1,9 @@
 body {
-    background-color: black;
+    background-color: beige;
   }
   
   h1 {
-    color: rgb(241, 247, 252);
+    color: black;
     text-align: center;
     font-family: Helvetica;
   }
@@ -20,7 +20,7 @@ body {
   .menu ul li{
     list-style: none;
     margin: 0 20px;
-    color: rgb(170, 15, 15);
+    color: black;
     cursor: pointer;
   }
  

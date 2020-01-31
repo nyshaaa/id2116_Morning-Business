@@ -20,9 +20,9 @@ body {
 }
 
 .logo img{
-    border-radius: 8px;
-    margin-top: 200px;
-        max-width: 40%;
+        margin-top: 500px;
+        position: center;
+        max-width: 30%;
         height: auto;
       }
 

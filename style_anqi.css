@@ -12,6 +12,13 @@ body {
 
 }
 
+.logo img{
+    border-radius: 0px;
+    margin-top: 50px;
+        max-width: 5%;
+        height: auto;
+      }
+
 .menu ul li{
     list-style: none;
     list-style-image: none;
@@ -20,12 +27,6 @@ body {
     cursor: pointer;
 }
 
-.logo img{
-    border-radius: 0px;
-    margin-top: 50px;
-        max-width: 5%;
-        height: auto;
-      }
 
 .banner{
     width: 80%;
@@ -40,14 +41,18 @@ body {
     float: left;
 
 }
-
 .app text h1{
     font-size: 500px;
     width: 640px;
     position: relative;
     margin-left: 500px;
 }
-
+.app text h2{
+    font-size: 500px;
+    width: 640px;
+    position: relative;
+    margin-left: 500px;
+}
 .app text p{
     text-align: justify;
     width: 200px;

@@ -3,7 +3,7 @@
     src: url(sansation_light.woff);
  }
 body {
-    background-color: rgb(247, 248, 245);
+    background-color: black;
   }
   
 .menu ul{
@@ -34,11 +34,11 @@ body {
     top: 28%;
     margin-left: 400px;
     position: absolute;
-    color: #09143c;
+    color: grey;
 }
 .app-text{
     width: 50%;
-    float: left;
+    float: none;
 
 }
 .app text h1{
@@ -55,6 +55,6 @@ body {
     font-family: "Helvetica";
     margin: 30px 30px 40px;
     line-height: 25px;
-    color: #09143c;
+    color: grey;
 }
 

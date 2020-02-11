@@ -39,6 +39,7 @@ body {
 .app-text{
     width: 50%;
     float: none;
+    color: grey;
 
 }
 .app text h1{
@@ -46,6 +47,7 @@ body {
     width: 640px;
     position: relative;
     margin-left: 500px;
+    color: grey;
 
 }
 .app text p{

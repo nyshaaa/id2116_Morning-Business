@@ -14,7 +14,7 @@ body {
 
 .logo img{
     border-radius: 0px;
-    margin-top: 50px;
+    margin-top: 50px 20px;
         max-width: 5%;
         height: auto;
       }

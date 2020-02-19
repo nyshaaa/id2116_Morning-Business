@@ -14,6 +14,8 @@
 
   .container {
 
+    grid-template-columns: [first] 230px [line2] 230px [line3] 230px [col4-start] 50px [five] 50px [end];
+    grid-template-rows: [row1-start] 50px [row1-end] 50px  [third-line] 50px  [last-line];
 
     grid-template-columns: repeat(auto-fill, minmax(150px,1fr));
         grid-template-rows: repeat(auto-fill, minmax(150px,1fr));

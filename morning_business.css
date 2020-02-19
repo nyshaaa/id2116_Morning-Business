@@ -1,16 +1,12 @@
-@import url('https://nyshaaa.github.io/id2116_Morning-Business/morning_business.html');
-
-/*SASS variable that determine the "min-width" of the elements*/
-$bp: 230px;
-
-.grid{
-  /*sets the container as a grid with variable number of columns*/
-  display:grid;
-  grid-template-columns: repeat(auto-fit, minmax($bp,1fr));
-  grid-gap:1em;
-  margin:1em 0 3em;
+ .container {
+  grid-template-columns: 230px 230px 230px;
+  grid-template-rows: 230px 230px 230px; 
+  grid-column-gap: 23px;
+  grid-row-gap: 23px;
 }
 
-.fix-grid--around{
-  justify-items: center;
+img {
+  object-fit: cover;
+  width:230px;
+  height:230px;
 }

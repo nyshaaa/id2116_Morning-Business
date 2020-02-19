@@ -11,6 +11,23 @@
     margin-left: auto;
   }
  
+
+  .container {
+
+
+    grid-template-columns: repeat(auto-fill, minmax(150px,1fr));
+        grid-template-rows: repeat(auto-fill, minmax(150px,1fr));
+              
+        justify-items: center;
+
+        align-items: stretch;
+
+        justify-content: center;
+
+        align-content: start
+
+  }
+
  .container {
   grid-template-columns: 230px 230px 230px;
   grid-template-rows: 230px 230px 230px; 

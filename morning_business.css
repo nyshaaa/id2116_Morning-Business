@@ -3,6 +3,13 @@
   width: 640px;
   position: relative ;
   margin-left: auto;
+}
+  .app text h2{
+    font-size: 100px;
+    width: 640px;
+    position: relative ;
+    margin-left: auto;
+  }
  
  .container {
   grid-template-columns: 230px 230px 230px;

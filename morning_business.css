@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
     font-family: Helvetica;
     src: url(sansation_light.woff);
@@ -80,3 +81,10 @@ body {
 
 
 
+=======
+img {
+    object-fit: cover;
+    width:230px;
+    height:230px;
+  }
+>>>>>>> f34e417d600a0b9fe4fa27cbba362e92066c9ba3

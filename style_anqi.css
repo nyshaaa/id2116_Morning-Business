@@ -44,8 +44,7 @@ body {
 .app text h1{
     font-size: 500px;
     width: 640px;
-    position: relative;
-    margin-left: 500px;
+    text-align: center;;
 
 }
 .app text p{

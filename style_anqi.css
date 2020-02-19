@@ -10,6 +10,7 @@ body {
 .menu ul{
     display: inline-flex;
     margin: 150px;
+    text-align: center;
 
 }
 
@@ -18,14 +19,6 @@ body {
     margin-top: 50px;
         max-width: 5%;
         height: auto;
-      }
-
-.menu ul li{
-    list-style: none;
-    list-style-image: none;
-    margin: 0px  60px;
-    color: darkgray;
-    cursor: pointer;
 }
 
 .banner{
@@ -44,7 +37,7 @@ body {
 .app text h1{
     font-size: 500px;
     width: 640px;
-    text-align: center;;
+    text-align: center;
 
 }
 .app text p{

@@ -12,33 +12,15 @@
   }
  
 
-  .container {
 
-    grid-template-columns: [first] 230px [line2] 230px [line3] 230px [col4-start] 50px [five] 50px [end];
-    grid-template-rows: [row1-start] 50px [row1-end] 50px  [third-line] 50px  [last-line];
-
-    grid-template-columns: repeat(auto-fill, minmax(150px,1fr));
-        grid-template-rows: repeat(auto-fill, minmax(150px,1fr));
-              
-        justify-items: center;
-
-        align-items: stretch;
-
-        justify-content: center;
-
-        align-content: start
-
-  }
-
- .container {
-  grid-template-columns: 230px 230px 230px;
-  grid-template-rows: 230px 230px 230px; 
-  grid-column-gap: 23px;
-  grid-row-gap: 23px;
-}
 
 img {
   object-fit: cover;
   width:230px;
   height:230px;
+
+  grid-template-columns: 230px 230px 230px;
+  grid-template-rows: 230px 230px 230px; 
+  grid-column-gap: 23px;
+  grid-row-gap: 23px;
 }

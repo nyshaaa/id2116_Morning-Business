@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: Helvetica;
     src: url(sansation_light.woff);
@@ -44,7 +45,8 @@ body {
 .app text h1{
     font-size: 500px;
     width: 640px;
-    text-align: center;;
+    position: relative;
+    margin-left: 500px;
 
 }
 .app text p{

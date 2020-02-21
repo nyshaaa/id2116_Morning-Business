@@ -58,3 +58,21 @@ body {
     color: #09143c;
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #FFFFFF;
+  padding: 10px;
+}
+.grid-item {
+  background-color: #4c8492
+  background-color: #4c8492 ;
+  border: 10px solid rgb(255,255,255);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.container {
+  position: relative;
+  width: 50%;

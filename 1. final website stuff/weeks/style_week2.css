@@ -2,3 +2,11 @@
     font-size: 500px;
     width: 640px;
     position: center ;
+
+    
+.logo img{
+    border-radius: 0px;
+    margin-top: 50px;
+        max-width: 5%;
+        height: auto;
+      }

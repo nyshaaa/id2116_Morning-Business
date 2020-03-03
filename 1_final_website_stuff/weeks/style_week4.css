@@ -1,0 +1,24 @@
+.app text h1{
+    font-size: 500px;
+    width: 640px;
+    position: center ;
+    
+  }
+  .microbit {
+    position: center ;
+    margin-left: 23%; 
+  }
+
+  img {
+
+   height: auto;
+   width: 30%;
+  
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
